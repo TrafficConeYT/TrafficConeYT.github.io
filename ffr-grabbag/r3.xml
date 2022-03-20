@@ -1,5 +1,5 @@
 <arc_engines>
-<engine legacySync="true">
+<engine legacySync="false">
 <id>grabbag</id>
 <name>Grab Bag Engine</name>
 <domain>trafficconeyt.github.io</domain>
